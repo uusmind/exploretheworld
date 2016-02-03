@@ -15,7 +15,7 @@
 		
 		<div id="header_wrapper">
 			<div id="header_sitename">
-				<a href="index.html"><h1>Explore the World</h1></a>
+				<a href="index.php"><h1>Explore the World</h1></a>
 			</div>
 			<div id="nav_wrapper">
 				<nav>
@@ -113,18 +113,13 @@
 			</div>			
 			<div id="cleared"></div>
 		</div>
-		<div id="footer">
-			<div class="inline" id="footer_home">
-				<a href="index.html">
-					<h1>Explore the World</h1>
-				</a>
-			</div>
-			<div class="inline" id="copyright">
-				<p>Creatred by Yakov Yusipenko</p>
-				<p>Contact me <a href="mailto:myemail@explore.world">myemail@explore.world</a></p>
-			</div>
-
-		</div>
+		<footer>
+				<div class="inline"><a href="index.php"><h1>Explore The World</h1></a></div>
+				<div class="inline" id="copyright">
+					<p>Creatred by Yakov Yusipenko</p>
+					<p>Contact me <a href="mailto:myemail@explore.world">myemail@explore.world</a></p>
+				</div>
+			</footer>
 	</div>
 </body>
 </html>

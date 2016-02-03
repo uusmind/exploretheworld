@@ -186,33 +186,24 @@ a{
 .articles :first-child{
 	border-top: none;
 }
-
-
-#footer {
+footer{
 	border-top: 3px solid red;
-	width: 100%;
-	height: 100px;
+	font-family: 'Oswald', sans-serif;
 	background-color: #ccc;
-	color: #000;
-
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 100%;
- 	height: 100px;
+	height: 100px;
 }
-#footer_home{
-	width: 30%;
-	float: left;
-}
-#copyright{
-	width: 60%;
-	float: right;
-}
-#footer p, #footer h1{
-	margin: 10px;
-}
-#footer h1{
+footer h1{
+	font-size: 35px;
+	margin: 20px;
+	font-weight: bold;
 	color: #911;
 	margin-left: 25px;
 }
+.inline{
+	display: inline-block;
+}
+#copyright{
+	margin: 0 30px;
+	float: right;
+}
+

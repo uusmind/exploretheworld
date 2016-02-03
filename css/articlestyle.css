@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+body{
+	background-color: #f22;
+	background: url('../imgs/Búðir- at the end of the road.jpg');
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+
+	font-family: "Cambria", "Georgia", serif;
+	font-size: 18px;
+	line-height: 1.5;
+}
+a{
+	text-decoration: none;
+}
+header{
+	width: 100%;
+}
+header h1{
+	margin: 0.6em 0.6em 0.3em 0;
+	float: right;
+	font-size: 50px;
+	font-weight: bold;
+}
+header span{
+	padding: 0.1em;
+	background-color: #fff;
+}
+header p{
+	margin: 0.1em 2em;
+	float: right;
+	font-size: 20px;
+}
+#e{
+	margin: 1.2em;
+}
+header a{	
+	font-weight: bold;
+}
+.clear{
+	clear:both;
+}
+.contfootwrap{
+	position: absolute;
+	top: 100%;
+	width: 100%;
+}
+.content_wrapper{
+	border-top: 3px solid red;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.7);
+}
+.content{
+	width: 60%;
+	margin: 0 auto;
+	padding: 2em 0;
+}
+footer{
+	border-top: 3px solid red;
+	font-family: 'Oswald', sans-serif;
+	height: 100px;
+}
+footer h1{
+	font-size: 35px;
+	margin: 20px;
+	font-weight: bold;
+	color: #911;
+	margin-left: 25px;
+}
+.inline{
+	display: inline-block;
+}
+#copyright{
+	margin: 30px;
+	float: right;
+}
