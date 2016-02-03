@@ -1,12 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 body{
-	background-color: #f22;
-	background: url('../imgs/Búðir- at the end of the road.jpg');
-	background-attachment: fixed;
-	-webkit-background-size: cover;
-	background-size: cover;
-	background-position: center;
-
 	font-family: "Cambria", "Georgia", serif;
 	font-size: 18px;
 	line-height: 1.5;
@@ -56,10 +49,14 @@ header a{
 	margin: 0 auto;
 	padding: 2em 0;
 }
+.content::first-line{
+	font-size: 24px;
+	font-weight: bold;
+}
 footer{
+	height: 100px;
 	border-top: 3px solid red;
 	font-family: 'Oswald', sans-serif;
-	height: 100px;
 }
 footer h1{
 	font-size: 35px;

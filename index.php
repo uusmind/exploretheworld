@@ -101,13 +101,19 @@
 				</div>	
 				<div class="articles">
 					<div class='article_header nobr'>
+						<a href="/articles/0.php">
 						<h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1> <p>Possimus consequatur iure, repudiandae obcaecati vitae quis similique debitis dolorem assumenda quod, labore, hic itaque esse optio rerum vero consectetur consequuntur. Tempora.</p>			
+						</a>
 					</div>	
 					<div class="article_header">
+						<a href="/articles/1.php">
 						<h1>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,</h1> <p> totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>		
+						</a>
 					</div>	
 					<div class="article_header">
+						<a href="/articles/2.php">
 						<h1>Ut enim ad minima veniam</h1> <p>quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>			
+						</a>
 					</div>	
 				</div>			
 			</div>			
