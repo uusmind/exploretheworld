@@ -1,4 +1,4 @@
 <?php
 include '../scripts/createarticlepage.php';
-createarticlepage(0);
+createarticlepage(3);
 ?>
