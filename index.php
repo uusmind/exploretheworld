@@ -1,3 +1,6 @@
+<?php 
+	include 'scripts/sessionstart.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,7 +107,7 @@
 					<?php 
 					include 'scripts/getsetarticle.php';
 					$id = getlastid();
-					for($i=$id; $i>$id-3; $i--){
+					for($i=$id; $i>$id-4; $i--){
 						printheader($i);
 					}
 
